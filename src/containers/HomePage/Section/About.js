@@ -16,7 +16,7 @@ class About extends Component {
                             src="https://www.youtube.com/embed/0goC0rTZ_mQ" 
                             title="Di chứng mất ngủ hậu COVID-19" 
                             frameBorder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" 
                             allowFullScreen>
                         </iframe>
                     </div>

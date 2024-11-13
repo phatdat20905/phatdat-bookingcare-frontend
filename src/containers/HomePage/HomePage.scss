@@ -51,7 +51,7 @@
     .section-body {
         .section-customize {
             .bg-image {
-                width: 260px;
+                width: 240px;
                 height: 150px;
                 background-position: center center;
                 background-repeat: no-repeat;
@@ -59,10 +59,10 @@
                 background-color: #eee;
 
                 &.section-specialty{
-                    background-image: url('../../assets/specialty/co-xuong-khop.jpg');
+                    //background-image: url('../../assets/specialty/co-xuong-khop.jpg');
                 }
                 &.section-medical-facility {
-                    background-image: url('../../assets/medical-facility/medical-facility.jpg');
+                    // background-image: url('../../assets/medical-facility/medical-facility.jpg');
                 }
                 &.section-outstanding-doctor{
                     //background-image: url('../../assets/outstanding-doctor/doctor.jpg');
